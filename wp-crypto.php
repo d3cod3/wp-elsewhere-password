@@ -15,6 +15,6 @@
 
   // THE KEY MUST BE OF 16 BYTES, GENERATED WITH php-encryption lib [https://github.com/defuse/php-encryption] method: Key::CreateNewRandomKey()
   // Ex. echo \Defuse\Crypto\Key::CreateNewRandomKey()->saveToAsciiSafeString();
-  define('ELSEWHERE_KEY','');
+  define('ELSEWHERE_KEY','copy_your_generated_encryption_key_here');
 
 ?>
