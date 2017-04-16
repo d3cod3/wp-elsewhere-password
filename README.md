@@ -33,7 +33,7 @@ echo \Defuse\Crypto\Key::CreateNewRandomKey()->saveToAsciiSafeString();
 
 Open it in your browser to generate an encryption key, copy-paste it in `wp-crypto.php` and save the file.
 
-## Libraries
+## Libraries
 
 This plugin use the following libraries:
 
